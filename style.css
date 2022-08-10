@@ -1,17 +1,17 @@
 @font-face {
     font-family: "Graphik-non";
-    src: url("/fonts/font/moonglade-font/MoongladeDemoBold-jOzM.ttf") format("woff");
+    src: url("fonts/font/moonglade-font/MoongladeDemoBold-jOzM.ttf") format("woff");
     font-weight: 800;
 }
 
 @font-face {
     font-family: "Cyberway";
-    src: url("/fonts/agelast-font/Agelast-mLlAm.otf") format("woff");
+    src: url("fonts/agelast-font/Agelast-mLlAm.otf") format("woff");
     font-weight: 700;}
 
     @font-face {
         font-family: "Cyberway-Alien";
-        src: url("/fonts/font/alien-world-font/AlienWorld-owj0x.ttf") format("woff");
+        src: url("fonts/font/alien-world-font/AlienWorld-owj0x.ttf") format("woff");
         font-weight: 700;}
 
 
@@ -19,12 +19,12 @@
 
 @font-face {
     font-family: "Space";
-    src: url("/fonts/rocket-wildness-font/Rocketwildness-7BB8R.ttf") format("woff");
+    src: url("fonts/rocket-wildness-font/Rocketwildness-7BB8R.ttf") format("woff");
     font-weight: 700;}
 
 body {
     font-family: "Cyberway-Alien";
-    background-image:url(/img/724261.jpg);
+    background-image:url(img/724261.jpg);
     text-align: center;
     /*argin: 0;*/
     background-attachment: fixed;
